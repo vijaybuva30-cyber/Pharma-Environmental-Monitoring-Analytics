@@ -73,3 +73,15 @@ The analysis can support:
 - Early-warning risk assessment
 
 The ML model should be used as a decision-support tool along with established Environmental Monitoring, investigation, QA and CAPA procedures.
+## Key Results
+
+The analysis identified important microbial contamination patterns across Grade C and Grade D areas.
+
+- 45 Grade C/D excursion records were identified.
+- Bacillus spp. was the most frequently observed microorganism.
+- High-risk areas included Autoclave Activity Area, Media Preparation, Inoculation Room and DSP 2.
+- Most Grade C/D excursions occurred During Operation.
+- Surface monitoring contributed the highest number of excursions.
+- The analysis identified personnel-associated, spore-former/environmental and mould/environmental source patterns.
+- The Machine Learning model achieved a ROC-AUC of 0.712 with a recall of 0.973.
+- The model is intended as an early-warning decision-support tool rather than a standalone decision-making system.
