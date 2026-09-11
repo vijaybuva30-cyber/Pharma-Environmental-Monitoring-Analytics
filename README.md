@@ -85,3 +85,38 @@ The analysis identified important microbial contamination patterns across Grade 
 - The analysis identified personnel-associated, spore-former/environmental and mould/environmental source patterns.
 - The Machine Learning model achieved a ROC-AUC of 0.712 with a recall of 0.973.
 - The model is intended as an early-warning decision-support tool rather than a standalone decision-making system.
+- ## Visual Insights
+
+### 1. Microorganism Distribution
+
+The excursion analysis showed Bacillus spp. as the most frequently observed microorganism, followed by Staphylococcus spp. and Penicillium spp.
+
+![Microorganism Distribution](reports/figures/microorganism_distribution.png)
+
+
+### 2. High-Risk Areas
+
+Autoclave Activity Area and Washing Room showed the highest number of Grade C/D excursion records, followed by Media Preparation and Unloading Room.
+
+![High-Risk Areas](reports/figures/high_risk_areas.png)
+
+
+### 3. Excursions by Monitoring Method
+
+Surface monitoring contributed the highest number of excursion records, followed by Settle Plate and Active Air Sampling.
+
+![Excursions by Monitoring Method](reports/figures/excursions_by_method.png)
+
+
+### 4. Excursions by Source Category
+
+The analysis identified three major source patterns: personnel-associated, spore-former/environmental and mould/environmental.
+
+![Excursions by Source Category](reports/figures/excursions_by_source.png)
+
+
+### 5. Monthly Excursion Trend
+
+The monthly trend showed a noticeable increase in excursions during January to March 2025 compared with several earlier months.
+
+![Monthly Excursion Trend](reports/figures/monthly_excursion_trend.png)
